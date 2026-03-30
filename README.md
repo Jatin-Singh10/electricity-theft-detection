@@ -1,5 +1,9 @@
 # ⚡ Electricity Theft Detection using Deep Neural Network (DNN)
 
+🚀 Live Demo
+
+👉 Try the app: https://electricity-theft-detection-kuajhhikxug96pe9blwxcc.streamlit.app/
+
 ## 📌 Overview
 
 Electricity theft is a major challenge for power distribution companies, leading to significant financial losses and system inefficiencies. This project presents a **machine learning-based solution** that leverages a **Deep Neural Network (DNN)** to identify suspicious electricity consumption patterns and detect potential theft cases.
